@@ -1,4 +1,4 @@
-## Olá! Eu sou o Erich Fournier, programador em formação! ✌️
+## Olá! Eu sou o Erich Fournier! ✌️
 
 
 <div align="center">
