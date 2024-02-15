@@ -27,10 +27,6 @@
   <a href = "mailto:erichfrr@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erichfr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23326ce5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/erich_dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-F46D01?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/erichfr/erichfr/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
