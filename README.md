@@ -13,11 +13,13 @@
   <img align="center" alt="Erich-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erich-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erich-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erich-Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Erich-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Erich-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Erich-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Erich-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
   <img align="center" alt="Erich-codeigniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
   <img align="center" alt="Erich-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Erich-mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Erich-postgres" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Erich-docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">  
   
   ##
@@ -29,6 +31,6 @@
   <a href="https://instagram.com/erich_dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-F46D01?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![snake animation](https://github.com/erichfr/erichfr/blob/output/github-contribution-grid-snake2.svg)
+
 
 
