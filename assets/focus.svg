@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="APIs REST, Multi-tenancy, Bancos de dados e Engenharia de software">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1224"/><stop offset="1" stop-color="#141629"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+</defs>
+<style>
+.title{font:600 18px 'Segoe UI',Arial,sans-serif;fill:#e9efff}.sub{font:500 12px 'Segoe UI',Arial,sans-serif;fill:#8fa6bd;letter-spacing:1.2px}
+.ring{fill:none;stroke:#38bdf8;stroke-opacity:.35;stroke-width:1.5}
+.dot{animation:twinkle 2.8s ease-in-out infinite;transform-origin:center}.d2{animation-delay:.7s}.d3{animation-delay:1.4s}.d4{animation-delay:2.1s}
+.path{stroke-dasharray:8 8;animation:travel 12s linear infinite}
+@keyframes twinkle{50%{opacity:.45}}@keyframes travel{to{stroke-dashoffset:-192}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="898" height="188" rx="18" fill="url(#bg)" stroke="#293b57"/>
+<path d="M95 74H805" fill="none" stroke="url(#line)" stroke-width="2" opacity=".45" class="path"/>
+<g transform="translate(112 65)"><circle r="27" fill="#132c46" stroke="#38bdf8"/><circle r="35" class="ring"/><circle r="5" cy="-35" fill="#38bdf8" class="dot"/><text x="0" y="6" text-anchor="middle" font-size="18" fill="#a5e9ff" font-family="monospace">{ }</text><text x="0" y="63" text-anchor="middle" class="title">APIs REST</text><text x="0" y="84" text-anchor="middle" class="sub">INTEGRAÇÕES</text></g>
+<g transform="translate(335 65)"><circle r="27" fill="#1f2044" stroke="#9b8cff"/><circle r="35" class="ring"/><circle r="5" cy="-35" fill="#9b8cff" class="dot d2"/><text x="0" y="6" text-anchor="middle" font-size="19" fill="#d2c4ff" font-family="monospace">⌘</text><text x="0" y="63" text-anchor="middle" class="title">Multi-tenant</text><text x="0" y="84" text-anchor="middle" class="sub">ARQUITETURA</text></g>
+<g transform="translate(558 65)"><circle r="27" fill="#132c46" stroke="#38bdf8"/><circle r="35" class="ring"/><circle r="5" cy="-35" fill="#38bdf8" class="dot d3"/><text x="0" y="6" text-anchor="middle" font-size="19" fill="#a5e9ff" font-family="monospace">DB</text><text x="0" y="63" text-anchor="middle" class="title">Banco de dados</text><text x="0" y="84" text-anchor="middle" class="sub">PERFORMANCE</text></g>
+<g transform="translate(781 65)"><circle r="27" fill="#1f2044" stroke="#9b8cff"/><circle r="35" class="ring"/><circle r="5" cy="-35" fill="#9b8cff" class="dot d4"/><text x="0" y="6" text-anchor="middle" font-size="19" fill="#d2c4ff" font-family="monospace">&lt;/&gt;</text><text x="0" y="63" text-anchor="middle" class="title">Engenharia</text><text x="0" y="84" text-anchor="middle" class="sub">QUALIDADE</text></g>
+</svg>
