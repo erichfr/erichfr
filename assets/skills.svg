@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80" role="img" aria-label="Tecnologias: PHP, Laravel, MySQL, APIs REST, Vue.js, Docker, Git">
+<style>
+.bg{fill:#0d1117}.text{font:700 23px 'Segoe UI',Arial,sans-serif;fill:#e2e8f0}.a{animation:cycle 14s infinite}
+@keyframes cycle{0%,11%{opacity:1}14%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.a{animation:none}.a:not(:first-child){opacity:0}}
+</style>
+<rect width="900" height="80" rx="14" class="bg"/>
+<rect x="1" y="1" width="898" height="78" rx="13" fill="none" stroke="#334155"/>
+<circle cx="39" cy="40" r="7" fill="#22c55e"/>
+<text x="66" y="48" fill="#93c5fd" font-family="monospace" font-size="19">stack ~ %</text>
+<g class="a" style="animation-delay:0s"><text x="270" y="48" class="text">PHP &amp; Laravel</text></g>
+<g class="a" style="animation-delay:-12s"><text x="270" y="48" class="text">APIs REST &amp; Integrações</text></g>
+<g class="a" style="animation-delay:-10s"><text x="270" y="48" class="text">MySQL &amp; MariaDB</text></g>
+<g class="a" style="animation-delay:-8s"><text x="270" y="48" class="text">Vue.js &amp; JavaScript</text></g>
+<g class="a" style="animation-delay:-6s"><text x="270" y="48" class="text">Docker &amp; Git</text></g>
+<g class="a" style="animation-delay:-4s"><text x="270" y="48" class="text">ERP &amp; CRM Multi-tenant</text></g>
+<g class="a" style="animation-delay:-2s"><text x="270" y="48" class="text">Performance &amp; Segurança</text></g>
+</svg>

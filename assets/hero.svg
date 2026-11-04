@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Erich Fournier, desenvolvedor PHP e Laravel com foco em backend">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080f21"/><stop offset="55%" stop-color="#12142a"/><stop offset="100%" stop-color="#071b28"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/><stop offset="50%" stop-color="#818cf8"/><stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <style>
+    .small{font:600 15px 'Segoe UI',Arial,sans-serif;letter-spacing:4px;fill:#81cfff}
+    .name{font:800 49px 'Segoe UI',Arial,sans-serif;fill:#f5f8ff}
+    .role{font:500 22px 'Segoe UI',Arial,sans-serif;fill:#c3d4e9}
+    .tag{font:600 14px 'Segoe UI',Arial,sans-serif;fill:#8be2f5}
+    .blink{animation:blink 1s steps(2,end) infinite}
+    .move{animation:drift 7s ease-in-out infinite alternate}
+    .move2{animation:drift 8s ease-in-out infinite alternate-reverse}
+    .dash{stroke-dasharray:9 15;animation:dash 18s linear infinite}
+    .pulse{animation:pulse 3s ease-in-out infinite;transform-origin:765px 115px}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes drift{to{transform:translate(13px,-12px)}}
+    @keyframes dash{to{stroke-dashoffset:-500}}
+    @keyframes pulse{50%{opacity:.35;transform:scale(1.1)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect width="900" height="260" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="258" rx="21" fill="none" stroke="#27415e"/>
+  <path d="M0 210 Q300 110 900 240" fill="none" stroke="#0ea5e9" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M0 245 Q500 100 900 190" fill="none" stroke="#a78bfa" stroke-opacity=".2" stroke-width="2"/>
+  <g class="move"><circle cx="762" cy="112" r="85" fill="none" stroke="#38bdf8" stroke-opacity=".22" stroke-width="1.5"/><circle cx="762" cy="112" r="57" fill="none" stroke="#8b5cf6" stroke-opacity=".4" stroke-width="1.5"/></g>
+  <g class="move2"><path d="M630 80 C700 5 840 10 887 90" fill="none" stroke="#38bdf8" stroke-width="2" stroke-opacity=".65" class="dash"/><path d="M642 178 C715 246 842 216 890 150" fill="none" stroke="#a78bfa" stroke-opacity=".7" stroke-width="2" class="dash"/></g>
+  <circle cx="762" cy="112" r="40" fill="#38bdf8" opacity=".25" filter="url(#glow)" class="pulse"/>
+  <circle cx="762" cy="112" r="36" fill="#142b4c" stroke="#38bdf8" stroke-opacity=".6"/>
+  <text x="762" y="124" fill="#d8f6ff" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="30">&lt;/&gt;</text>
+  <circle cx="683" cy="50" r="5" fill="#38bdf8" class="move"/>
+  <circle cx="835" cy="185" r="5" fill="#c084fc" class="move2"/>
+  <text x="49" y="64" class="small">OLÁ, EU SOU</text>
+  <text x="47" y="122" class="name">Erich Fournier</text>
+  <rect x="49" y="137" width="360" height="3" rx="2" fill="url(#accent)"/>
+  <text x="49" y="177" class="role">Full Stack Developer  ·  Backend Focus</text>
+  <text x="49" y="214" class="tag">PHP  //  LARAVEL  //  APIs REST  <tspan class="blink">▌</tspan></text>
+</svg>
